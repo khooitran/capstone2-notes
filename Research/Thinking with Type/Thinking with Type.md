@@ -1,0 +1,1 @@
+_Thinking with Type_ by Ellen Lupton is a book that talks about Typography basics. I will be using this as my guide on Typography, and to fact check my knowledge.

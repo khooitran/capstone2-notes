@@ -1,0 +1,1 @@
+_Designing Type_ is a book that was recommended to me by Duong Tran in his Creative Talk in Hanoi. It covers the basics of type design.

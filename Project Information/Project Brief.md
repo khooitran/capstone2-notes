@@ -1,6 +1,6 @@
 ### Purpose
 
-To *promote* typography to aspiring designers looking to learn more about it.
+To *promote* type as standalone aesthetic element in design to aspiring Vietnamese designers, in the Vietnamese design market.
 
 ### Concept Context
 
