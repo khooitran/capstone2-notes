@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "457f93abbefa4f97",
+            "id": "cbe3cfc5e38f1be3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Typography in Vietnam.md",
+                "file": "Project Information/Project Brief (new).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Typography in Vietnam"
-            }
-          },
-          {
-            "id": "0ff40687c192ffa0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Information/Project Brief.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Project Brief"
+              "title": "Project Brief (new)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,11 +162,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ff40687c192ffa0",
+  "active": "cbe3cfc5e38f1be3",
   "lastOpenFiles": [
-    "Design Market in Vietnam.md",
+    "Project Information/Project Brief (old).md",
     "Research/Typography in Vietnam.md",
-    "Project Information/Project Brief.md",
+    "Project Information/Project Brief (new).md",
+    "Research/Design Market in Vietnam.md",
     "Zettelkasten/Folders/RESEARCH.md",
     "Zettelkasten/Weeks/WEEK 01.md",
     "README.md",

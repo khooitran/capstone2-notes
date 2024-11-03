@@ -5,7 +5,7 @@
 # Project Development
 
 - [[Personal Project Requirements]]
-- [[Project Brief]]
+- [[Project Brief (old)]]
 
 # Research
 
