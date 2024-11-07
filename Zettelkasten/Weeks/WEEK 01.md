@@ -10,3 +10,5 @@
 # Research
 
 - [[Don Norman's Principles of Design]]
+- [[Design Market in Vietnam]]
+- [[Typography in Vietnam]]

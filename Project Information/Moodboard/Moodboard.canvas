@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"32d55f095f72564c","type":"file","file":"Project Information/Moodboard/Grid systems.png","x":-260,"y":-160,"width":274,"height":400},
-		{"id":"7b0cf76ba9b1ac2a","x":-260,"y":-260,"width":250,"height":60,"type":"text","text":"Inspiration"},
-		{"id":"0b98f5a1db77b719","x":60,"y":-160,"width":250,"height":60,"type":"text","text":"[Vietnamese Typography](https://vietnamesetypography.com)"}
-	],
-	"edges":[]
-}

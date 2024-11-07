@@ -2,6 +2,12 @@
 
 - A 200-word design statement of intent or introduction to your design project.
 
+ViệtType is a website platform & zine publisher focusing on Vietnamese typographic culture. The project aims to uplift the typographic movement in Vietnam, giving typographers and type designers in Vietnam a commonplace where the focus is on type and type alone.
+
+The project stems from a certain context of typography in Vietnam: While type designers in Vietnam are often recognised by the global design community, the coverage of these people’s works in Vietnam do not achieve quite the same effect. The content is definitely there, but what is missing is a place where these designers can share their process and little bits of stories. I want to make this open to the public, so that more people can bounce off of their ideas, much similar to how they inspired me.
+
+The main focus of the project will be on contemporary Vietnamese typographers and type designers, which will be displayed in two formats: A website where stories, events, and new typographic content are updated via blogs, and a periodically produced zine that goes into deeper detail about stories from people actively participating in the Vietnamese typographic community, whether they are typographers, type designers, or graphic designers. The project hopes to serve as an artistic outlet of typographic content that doubles as a newsletter for Vietnamese typography, which will inspire other designers in Vietnam to follow these people’s footsteps and create a bigger community.
+
 # Analysis of the design problem/issue/subject/proposition
 
 - What is the design question or problem or proposition?
