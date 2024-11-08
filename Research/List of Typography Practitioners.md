@@ -20,3 +20,12 @@
 
 - [Website](https://www.luuchu.com/)
 
+# Republish by Behalf Studio
+
+- [Website](https://republi.sh/)
+
+# Vietnamese Typography by Donny Trương
+
+- [Website](https://vietnamesetypography.com/)
+
+
