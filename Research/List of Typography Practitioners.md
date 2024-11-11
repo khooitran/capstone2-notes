@@ -19,13 +19,19 @@
 # Lưu Chữ - The Lost Type
 
 - [Website](https://www.luuchu.com/)
+- contact@luuchu.com
 
 # Republish by Behalf Studio
 
 - [Website](https://republi.sh/)
+- republish@onbehalfof.studio
 
 # Vietnamese Typography by Donny Trương
 
 - [Website](https://vietnamesetypography.com/)
+- donnydigital@gmail.com
 
+# Type Ơi
 
+- [Website](https://typeoi.com/)
+- typeoimag@gmail.com

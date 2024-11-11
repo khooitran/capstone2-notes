@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "List of Typography Practitioners"
             }
-          },
-          {
-            "id": "ec25b03a3c4a8990",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,7 +162,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec25b03a3c4a8990",
+  "active": "11cb692366de848e",
   "lastOpenFiles": [
     "Class Notes/051124 - Design Brief Feedback.md",
     "Zettelkasten/Weeks/WEEK 02.md",
